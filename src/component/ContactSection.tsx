@@ -45,7 +45,7 @@ export default function ContactSection() {
         </div>
 
         {/* Texto */}
-        <BeamBackground numBeams={8}>
+        <BeamBackground>
 
         <div className="flex flex-col justify-center px-[clamp(2rem,5vw,6rem)] py-[clamp(3rem,5vw,6rem)]">
 
