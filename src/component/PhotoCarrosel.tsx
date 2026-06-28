@@ -1,9 +1,9 @@
 import "../index.css";
 
-import Foto1 from "../imagens/Album3/20220410124941_IMG_1376.jpg";
-import Foto2 from "../imagens/Album3/20220702165602_IMG_1810.jpg";
-import Foto3 from "../imagens/Album3/20221126084953_IMG_4148.jpg";
-import Foto4 from "../imagens/Album3/IMG_20220414_090608_489.webp";
+import Foto1 from "../imagens/Album_treis/20220410124941_IMG_1376.jpg";
+import Foto2 from "../imagens/Album_treis/20220702165602_IMG_1810.jpg";
+import Foto3 from "../imagens/Album_treis/20221126084953_IMG_4148.jpg";
+import Foto4 from "../imagens/Album_treis/IMG_20220414_090608_489.webp";
 
 const photos = [
   Foto1,

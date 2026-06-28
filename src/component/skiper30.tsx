@@ -5,19 +5,19 @@ import Lenis from "lenis";
 import { useEffect, useRef, useState } from "react";
 import Hero2 from './Hero2'
 
-import img1 from "../imagens/album1/vertical/img1.jpg";
-import img2 from "../imagens/album1/vertical/img2.jpg";
-import img3  from "../imagens/album1/vertical/img3.jpg";
-import img4  from "../imagens/album1/vertical/img4.jpg";
-import img5  from "../imagens/album1/vertical/img5.jpg";
-import img6  from "../imagens/album1/vertical/img6.jpg";
-import img7  from "../imagens/album1/vertical/img7.jpg";
-import img8  from "../imagens/album1/vertical/img8.jpg";
-import img9 from "../imagens/album1/vertical/img9.jpg";
-import img10 from "../imagens/album1/vertical/img10.jpg";
-import img11 from "../imagens/album1/vertical/img11.jpg";
-import img12 from "../imagens/album1/vertical/img12.jpg";
-import img13 from "../imagens/album1/vertical/img13.jpg";
+import img1 from "../imagens/album_um/vertical/img1.jpg";
+import img2 from "../imagens/album_um/vertical/img2.jpg";
+import img3  from "../imagens/album_um/vertical/img3.jpg";
+import img4  from "../imagens/album_um/vertical/img4.jpg";
+import img5  from "../imagens/album_um/vertical/img5.jpg";
+import img6  from "../imagens/album_um/vertical/img6.jpg";
+import img7  from "../imagens/album_um/vertical/img7.jpg";
+import img8  from "../imagens/album_um/vertical/img8.jpg";
+import img9 from "../imagens/album_um/vertical/img9.jpg";
+import img10 from "../imagens/album_um/vertical/img10.jpg";
+import img11 from "../imagens/album_um/vertical/img11.jpg";
+import img12 from "../imagens/album_um/vertical/img12.jpg";
+import img13 from "../imagens/album_um/vertical/img13.jpg";
 
 const images = [
   img1, img2, img3, img4, img5, img6, img7,

@@ -1,5 +1,5 @@
 
-import imgPrincipal from "../imagens/album1/vertical/img16.jpg";
+import imgPrincipal from "../imagens/album_um/vertical/img16.jpg";
 import Button from "./button"
 
 const Hero2 = () => {
